@@ -22,9 +22,9 @@
 作業ディレクトリに移動  
 `$ cd ~/catkin_ws/src/mypkg/scripts$`   
 実行権限確認  
-`~/scripts$ ls -l twice.py`
+`~/scripts$ ls -l twice.py`  
 実行権限付与  
-`$ chmod +x twice.py` 
+`$ chmod +x twice.py`  
 実行  
 `$ rosrun mypkg count.py`  
 
