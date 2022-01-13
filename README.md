@@ -28,7 +28,7 @@
 実行  
 `$ rosrun mypkg count.py`  
 
-端末4にて
+端末4にて  
 トピック動作確認  
 `$ rostopic list`  
 実行結果確認  
