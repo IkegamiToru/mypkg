@@ -10,8 +10,8 @@ ROSのインストールは[こちら](https://github.com/ryuichiueda/ros_setup_
 .bashrcの末尾に以下を追加  
 `source ~/catkin_ws/devel/setup.bash`  
 ### 環境構築のビルド
-`$ cd ~/catkin_ws`
-`$ catkin_make`
+`$ cd ~/catkin_ws`  
+`$ catkin_make`  
 `$ source ~/.bashrc`
 
 ## インストール方法
