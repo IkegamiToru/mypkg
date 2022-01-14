@@ -54,5 +54,8 @@ ROSのインストールは[こちら](https://github.com/ryuichiueda/ros_setup_
 ## 参考動画
 [ロボットシステム学第10回（ROS）(Youtube)](https://www.youtube.com/watch?v=PL85Pw_zQH0)
 
+## 著作者
+上田隆一
+
 ## ライセンス
 このプロジェクトは3条項BSDライセンスに基づいています。
