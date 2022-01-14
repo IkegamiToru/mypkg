@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+#author:Ryuichi Ueda
+#LICENSE:BSD
 
 import rospy
 from std_msgs.msg import Int32
