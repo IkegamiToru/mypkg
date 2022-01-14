@@ -4,15 +4,15 @@
 ## 準備
 ROSのインストールは[こちら](https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server)から
 ### ワークスペースの構築 
-`$ mkdir -p catkin_ws/src  
-$ cd ~/catkin_ws/src  
-$ catkin_init_workspace  `  
-.bashrcの末尾に以下を追加
+`$ mkdir -p catkin_ws/src`  
+`$ cd ~/catkin_ws/src`  
+`$ catkin_init_workspace`  
+.bashrcの末尾に以下を追加  
 `source ~/catkin_ws/devel/setup.bash`  
 ### 環境構築のビルド
-`$ cd ~/catkin_ws  
-$ catkin_make  
-$ source ~/.bashrc`
+`$ cd ~/catkin_ws`
+`$ catkin_make`
+`$ source ~/.bashrc`
 
 ## インストール方法
 このリポジトリをforkして`~/catkin_ws/src`内に`git clone`でcloneして使用してください。
